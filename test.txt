@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 This is my first commit!
 This is another commit!
+=======
+This is again a commit!
+
+>>>>>>> feature
 
 And Here we go with Commit number 2!
